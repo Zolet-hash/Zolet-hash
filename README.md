@@ -28,5 +28,5 @@
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | 🔐 [Secure-CI/CD-Pipeline](https://github.com/Zolet-hash/secure-pipeline) | CI/CD pipeline with automated vulnerability scanning using Trivy and GitHub Actions. | Go, Docker, GitHub Actions |
-| ☁️ [Cloud-Audit-Tool](https://github.com/Zolet-hash/cloud-audit-tool) | Tool that audits AWS S3 buckets and IAM configurations for misconfigurations. | Python, Boto3, AWS |
+| ☁️ [Cloud-Audit-Tool](https://github.com/Zolet-hash/cloud-audit-tool) | Tool that audits AWS S3 buckets and IAM configurations for misconfigurations. | Python, Boto3, AWS, go |
 | 🧠 [Kenyan Brain AI](https://github.com/Zolet-hash/kenyan-brain-ai) | AI-powered educational assistant to promote AI adoption in Africa. | FastAPI, ML, Go |
