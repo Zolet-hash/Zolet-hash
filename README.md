@@ -6,7 +6,7 @@
 
 ## 🧰 About Me
 
-- 🌍 Based in Kenya  
+- 🌍 Based in Kenya.  
 - 💼 Founder of [Kenyan Brain Foundation](#)  
 - 🧠 Currently learning **DevSecOps**, **Cloud Security**, and **Containerization**  
 - 🧩 Building secure pipelines using **Go**, **Docker**, **Kubernetes**, **FastAPI**, and **CI/CD**  
