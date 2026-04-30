@@ -23,7 +23,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🚧 Featured Projects
+## 🚧 Featured Projects.
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
