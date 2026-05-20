@@ -8,7 +8,7 @@
 
 - 🌍 Based in Kenya.  
 - 💼 Founder of [Kenyan Brain Foundation](#)  
-- 🧠 Currently learning **DevSecOps**, **Cloud Security**, and **Containerization**  
+- 🧠 Currently Building  **Cybersecurity prjects**, **labs**, and **Simulating real world attacks**  
 - 🧩 Building secure pipelines using **Go**, **Docker**, **Kubernetes**, **FastAPI**, and **CI/CD**  
 - 🔐 I believe automation + security = scalable trust.
 
