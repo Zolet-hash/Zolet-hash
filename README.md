@@ -1,5 +1,5 @@
 # 👋🏽 Hi, I'm Emmanuel Sulwe  
-### 🚀 Aspiring DevSecOps Engineer | Cloud • Automation • Security Enthusiast
+### 🚀 A Junior SOC Analyst | Alx certified | Cloud • Automation • Security Enthusiast
 
 > I design, automate, and secure infrastructure. Passionate about bridging the gap between code and operations, and making security a default part of the pipeline.
 ![Banner](https://github.com/Zolet-hash/yourusername/blob/main/banner.png)
