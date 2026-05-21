@@ -95,6 +95,6 @@
 ---
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [My-Linkedin-profile](www.linkedin.com/in/emmanuel-sulwe-83b103329)
+- 💼 LinkedIn: [My-Linkedin-profile](https://www.linkedin.com/in/emmanuel-sulwe-83b103329)
 - 🌐 Portfolio: [My portforlio](https://sites.google.com/view/emmanuel-sulwe?usp=sharing)
 - 📫 Reach me at: emmanuelsulwe@email.com
