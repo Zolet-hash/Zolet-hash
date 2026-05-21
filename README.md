@@ -74,6 +74,6 @@
 ---
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [#](www.linkedin.com/in/emmanuel-sulwe-83b103329)
-- 🌐 Portfolio: [#](https://sites.google.com/view/emmanuel-sulwe?usp=sharing)
+- 💼 LinkedIn: [My linkedin profile](www.linkedin.com/in/emmanuel-sulwe-83b103329)
+- 🌐 Portfolio: [My portforlio](https://sites.google.com/view/emmanuel-sulwe?usp=sharing)
 - 📫 Reach me at: emmanuelsulwe@email.com
