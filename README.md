@@ -30,22 +30,37 @@
 - Network & Endpoint Security Fundamentals
 
 ---
+## 🛠️ Security & Technology Stack
 
-## 🛠️ Technologies & Tools
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🔍 Monitoring & Threat Detection
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005E9C?style=for-the-badge&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
+![Sigma Rules](https://img.shields.io/badge/Sigma_Rules-000000?style=for-the-badge&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logoColor=white)
+
+### 🌐 Network & Traffic Analysis
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-1E1E1E?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
+![cURL](https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47C20?style=for-the-badge&logoColor=white)
+
+### 🛡️ Security Operations & Testing
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-5C2D91?style=for-the-badge&logoColor=white)
+
+### ☁️ Cloud, Containers & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ---
 
 ## 📚 Current Focus
