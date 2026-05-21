@@ -1,27 +1,73 @@
 # 👋🏽 Hi, I'm Emmanuel Sulwe  
-### 🚀 A Junior SOC Analyst | Alx certified | Cloud • Automation • Security Enthusiast
+### 🔐 Junior SOC Analyst | Cloud & Security Enthusiast | ALX Certified
 
-> I design, automate, and secure infrastructure. Passionate about bridging the gap between code and operations, and making security a default part of the pipeline.
+> Passionate about cybersecurity, threat detection, and securing modern infrastructure.  
+> I combine my background in cloud, automation, and DevOps with security operations to build resilient and secure systems.
+
 ![Banner](https://github.com/Zolet-hash/yourusername/blob/main/banner.png)
+
+---
 
 ## 🧰 About Me
 
-- 🌍 Based in Kenya.  
-- 💼 Founder of [Kenyan Brain Foundation](#)  
-- 🧠 Currently Building  **Cybersecurity prjects**, **labs**, and **Simulating real world attacks**  
-- 🧩 Building secure pipelines using **Go**, **Docker**, **Kubernetes**, **FastAPI**, and **CI/CD**  
-- 🔐 I believe automation + security = scalable trust.
+- 🌍 Based in Kenya  
+- 🎓 ALX Certified Professional  
+- 🛡️ Currently focused on **Security Operations**, **Threat Detection**, and **Incident Response**  
+- 🧪 Building cybersecurity labs and simulating real-world attack scenarios for continuous learning  
+- ☁️ Background in Cloud, DevOps, and Infrastructure Automation  
+- 🔍 Interested in SOC operations, SIEM tools, log analysis, detection engineering, and cloud security  
+- 💼 Founder of **Kenyan Brain Foundation**
 
-## 🛠️ Tech Stack
+---
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+## ⚡ Core Skills
+
+- Security Monitoring & Threat Detection  
+- Incident Response & Log Analysis  
+- Linux System Administration  
+- Cloud & Container Security  
+- CI/CD & Infrastructure Automation  
+- Network & Endpoint Security Fundamentals
+
+---
+
+## 🛠️ Technologies & Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+## 📚 Current Focus
+
+- SOC Analyst Labs & Blue Teaming  
+- SIEM & Log Monitoring  
+- Threat Hunting Fundamentals  
+- Detection Engineering  
+- Cloud Security Best Practices  
+- Security Automation with Python
+
+---
+
+## 📈 Goals
+
+- Grow into a skilled Cybersecurity & Blue Team professional  
+- Contribute to open-source security projects  
+- Build practical detection and response solutions  
+- Continuously learn and share cybersecurity knowledge
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Your LinkedIn](#)
+- 🌐 Portfolio: [Your Portfolio](#)
+- 📫 Reach me at: your@email.com
 
 ## 🚧 Featured Projects.
 
