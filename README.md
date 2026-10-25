@@ -1,100 +1,52 @@
-# 👋🏽 Hi, I'm Emmanuel Sulwe  
-### 🔐 Junior SOC Analyst | Cloud & Security Enthusiast | ALX Certified
+# Hi, I'm a Go Backend Developer 👋
 
-> Passionate about cybersecurity, threat detection, and securing modern infrastructure.  
-> I combine my background in cloud, automation, and DevOps with security operations to build resilient and secure systems.
+I build backend applications and APIs with *Go (Golang)*, with a focus on clean code, relational databases, and practical problem-solving.
 
-![Banner](https://github.com/Zolet-hash/yourusername/blob/main/banner.png)
+I'm developing my skills through hands-on projects, software development training, and coding challenges. I enjoy understanding how systems work, designing backend functionality, and turning requirements into working software.
 
----
+## 🛠️ Technical Skills
 
-## 🧰 About Me
+- *Languages:* Go (Golang), SQL
+- *Backend Development:* REST APIs, HTTP handlers, backend application logic
+- *Databases:* PostgreSQL, relational database design
+- *Development Tools:* Git, GitHub, Linux, Docker
+- *AI-Assisted Development:* OpenAI Codex for exploring codebases, debugging, and accelerating development, with human review and testing
 
-- 🌍 Based in Kenya  
-- 🎓 ALX Certified Professional  
-- 🛡️ Currently focused on **Security Operations**, **Threat Detection**, and **Incident Response**  
-- 🧪 Building cybersecurity labs and simulating real-world attack scenarios for continuous learning  
-- ☁️ Background in Cloud, DevOps, and Infrastructure Automation  
-- 🔍 Interested in SOC operations, SIEM tools, log analysis, detection engineering, and cloud security  
-- 💼 Founder of **Kenyan Brain Foundation**
+## 🚀 Featured Project
 
----
+### Smart Rental Management System | Go & PostgreSQL
 
-## ⚡ Core Skills
+A rental management application focused on organizing rental-related information through backend application logic and relational data storage.
 
-- Security Monitoring & Threat Detection  
-- Incident Response & Log Analysis  
-- Linux System Administration  
-- Cloud & Container Security  
-- CI/CD & Infrastructure Automation  
-- Network & Endpoint Security Fundamentals
+*Technologies:* Go, PostgreSQL
 
----
-## 🛠️ Security & Technology Stack
+*Project highlights:*
+- Backend development using Go.
+- Relational database storage with PostgreSQL.
+- Practical application of backend and database design concepts.
+- An ongoing project focused on building maintainable software.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+🔗 *Repository:* [Smart Rental Management System](https://github.com/Zolet-hash/smart-rentals)
 
-### 🔍 Monitoring & Threat Detection
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005E9C?style=for-the-badge&logoColor=white)
-![Sigma Rules](https://img.shields.io/badge/Sigma_Rules-000000?style=for-the-badge&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logoColor=white)
+Project capabilities and implementation details reflect the current state of the repository.
 
-### 🌐 Network & Traffic Analysis
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-1E1E1E?style=for-the-badge&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
-![cURL](https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47C20?style=for-the-badge&logoColor=white)
+## 🎓 Learning & Development
 
-### 🛡️ Security Operations & Testing
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-5C2D91?style=for-the-badge&logoColor=white)
+- Completed intensive software development training at Zone 01 Kisumu, with a focus on Go backend development.
+- Completed the OverTheWire Bandit challenges to strengthen Linux command-line and problem-solving skills.
+- Practicing data structures, algorithms, and coding challenges.
+- Exploring API development, software testing, application security, and AI-assisted engineering.
 
-### ☁️ Cloud, Containers & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
----
+## 💡 What I'm Working Toward
 
-## 📚 Current Focus
+- Building reliable backend services in Go.
+- Improving API design, testing, and error handling.
+- Strengthening PostgreSQL and database design skills.
+- Developing practical integrations with external APIs.
+- Contributing to real-world software projects and open-source work.
 
-- SOC Analyst Labs & Blue Teaming  
-- SIEM & Log Monitoring  
-- Threat Hunting Fundamentals  
-- Detection Engineering  
-- Cloud Security Best Practices  
-- Security Automation with Python
+## 🤝 Let's Connect
 
----
+I'm interested in *junior Go backend opportunities, freelance backend projects, API development, and software collaboration*.
 
-## 📈 Goals
-
-- Grow into a skilled Cybersecurity & Blue Team professional  
-- Contribute to open-source security projects  
-- Build practical detection and response solutions  
-- Continuously learn and share cybersecurity knowledge
-
----
-
-## 🚧 Featured Projects.
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🔐 [Secure-CI/CD-Pipelines](https://github.com/Zolet-hash/secure-pipeline) | CI/CD pipeline with automated vulnerability scanning using Trivy and GitHub Actions. | Go, Docker, GitHub Actions |
-| ☁️ [Cloud-Audit-Tool](https://github.com/Zolet-hash/cloud-audit-tool) | Tool that audits AWS S3 buckets and IAM configurations for misconfigurations. | Python, Boto3, AWS, go |
-| 🧠 [Kenyan Brain AI](https://github.com/Zolet-hash/kenyan-brain-ai) | AI-powered educational assistant to promote AI adoption in Africa. | FastAPI, ML, Go, Gin |
-
----
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: [My-Linkedin-profile](https://www.linkedin.com/in/emmanuel-sulwe-83b103329)
-- 🌐 Portfolio: [My portforlio](https://sites.google.com/view/emmanuel-sulwe?usp=sharing)
-- 📫 Reach me at: emmanuelsulwe@email.com
+Thanks for visiting my profile!
